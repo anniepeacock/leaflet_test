@@ -4,3 +4,7 @@ pathlib2==2.3.3
 typing-extensions==3.7.4.2
 voila==0.1.21
 ipython==7.4.0
+rasterio
+numpy
+matplotlib.pyplot
+matplotlib
